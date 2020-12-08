@@ -1,0 +1,3 @@
+plugins {
+    id 'com.sisglobal.eai.java-library-conventions'
+}

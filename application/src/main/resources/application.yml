@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: eai
+
+server:
+  port: 8088
+  servlet:
+    context-path: "/${spring.application.name}"
